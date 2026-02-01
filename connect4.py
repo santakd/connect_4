@@ -8,7 +8,7 @@
 # Description: 
 # This program is to emulate Connect4 game with AI opponent using Minimax algorithm with alpha-beta pruning.
 # The AI is designed to play optimally, ensuring a challenging experience for the player.
-# The game is played on a 7x6 grid, where the player uses 'X' and the AI uses 'O'.
+# The game is played on a 7x6 grid, where the player 1 uses red discs and player 2 uses yellow discs.
 
 
 # PIP Install Requirements:
