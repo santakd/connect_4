@@ -1,3 +1,16 @@
+# connect4.py
+# Author: santakd
+# Contact: santakd at gmail dot com
+# Date: February 01, 2026
+# Version: 1.0.8
+# License: MIT License
+
+# Description: 
+# This program is to emulate Connect4 game with AI opponent using Minimax algorithm with alpha-beta pruning.
+# The AI is designed to play optimally, ensuring a challenging experience for the player.
+# The game is played on a 7x6 grid, where the player uses 'X' and the AI uses 'O'.
+
+
 # PIP Install Requirements:
 # pip install pygame
 
