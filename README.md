@@ -4,3 +4,31 @@ it’s a fast-paced battle of wits where every move counts. Stack, block, and ou
 race to connect four in a row—horizontally, vertically, or diagonally—before they do. 
 Easy to learn, sneaky-hard to master, and guaranteed to spark a little friendly rivalry.
 So line up your discs, scan the grid, and make your move. Four connects wins it all—let the showdown begin! 🔴🟡
+
+## Contributing
+
+Contributions are welcome. Suggested workflow:
+
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/your-feature`.
+3. Make changes and add tests where appropriate.
+4. Open a pull request describing your changes.
+
+Please include descriptive commit messages and keep changes focused.
+
+## Tests
+
+If you add unit tests, include instructions to run them here (for example, using pytest):
+
+```bash
+pip install pytest
+pytest
+```
+
+## License
+
+MIT License.
+
+## Contact
+
+If you have questions or suggestions, open an issue or submit a pull request. Mention @santakd for visibility.
